@@ -57,9 +57,9 @@ En el panel de la izquierda selecciona la sección acceso a registro y en el bot
 
 
 - _Orden de registro_: Seleccionar personalizado
-- _Nombre de registro_: Puede usar el nombre sugerido
+- _Nombre de registro_: Puede usar el nombre sugerido (Recordar este nombre para el paso 7)
 - _Nombre de usuario_: iamapikey
-- _Servidor de registro_: En nuestro caso el servidor de us-south es us.icr.io. Usar el servidor de su region.
+- _Servidor de registro_: En nuestro caso el servidor de us-south es us.icr.io. Usar el servidor de su region. (Recordar el servidor de registro para el paso 7)
 - _Contraseña_: Ingrese la apikey que genero o una existente.
 - _Correo electronico_: El correo de su cuenta IBM cloud.
 
@@ -91,9 +91,9 @@ En el panel de la izquierda selecciona la sección acceso a registro y en el bot
   Dejamos los campos como están y presionamos next. <br><br>
   **Pestaña Output**<br>
   
-- _Registry name_: code-engine-registry
-- _Namespace_: Buscamos y seleccionamos de la lista, code-engine-ns.
-- _Repository_: Buscamos y seleccionamos de la lista, hello-world-go.
+- _Registry name_: El nombre que le asigno en el paso 4.
+- _Namespace_: El valor por default que se le asigna.
+- _Repository_: El valor por default que se le asigna.
 - _Tag_: Dejamos el valor predeterminado, latest.
 
 ![build-details](resources/build-details.gif)
