@@ -1,6 +1,5 @@
-# <h1 align=center> Hands On IBM Cloud Engine
+# <h1 align=center> IBM Cloud Engine
 
-**Aclaración**: A la fecha, 21 de Septiembre del 2020, IBM Cloud Engine se encuentra en fase Beta.
 
 Con IBM Cloud Engine podrá realizar despliegues de aplicaciones en segundos con un modelo totalmente Serverless.
 
