@@ -48,7 +48,7 @@ Por ultimo de click en copiar para guardar el valor. **Nota:** Es la unica oport
 ![apikey](resources/saveapikey.png)
 
 
-4. **Configurar el acceso a registro del proyecto:** Luego de generar y tener el valor de la API key tiene que almacenar en su proyecto de code engine.
+4. **Configurar el acceso a registro del proyecto:** Luego de generar y tener el valor de la API key tiene que almacenarla en su proyecto de code engine.
 
 
 En el panel de la izquierda selecciona la sección acceso a registro y en el boton crear se despliega un menú que debe llenar asi:
